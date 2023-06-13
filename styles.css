@@ -118,15 +118,62 @@ div {
     padding-right: 300px;
 }
 
-.quote{
+.quote{ 
     font-size: 36px;
     font-style: italic;
 
-
 }
-.signature{
+
+.signature {
     font-weight: bold;
     text-align: end;
     font-size: 24px;
     padding-right: 50px;
+}
+
+.calltoaction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    background-color: white ;
+}
+
+.action {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    height: 100px;
+    width: 750px;
+    background-color: #3882F6;
+    color: white;
+
+}
+.cta {
+    font-weight: bold;
+    height: 25px;
+    width: 500px;
+    margin-left: 50px;
+}
+.signupbutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    height: 8px;
+    width: 80px;
+    border: 2px solid white;
+    margin-right: 50px;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    height: 65px;
+    color: white;
 }

@@ -1,2 +1,2 @@
-# coach-landing
-personal business landing page
+# landing-page
+practice landing page
